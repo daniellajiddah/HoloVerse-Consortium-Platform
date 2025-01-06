@@ -54,4 +54,9 @@ plan:
             emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
             path: contracts/simulation-management.clar
             clarity-version: 2
+        - emulated-contract-publish:
+            contract-name: holographic-model-nft
+            emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
+            path: contracts/holographic-model-nft.clar
+            clarity-version: 2
       epoch: "2.5"
